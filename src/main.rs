@@ -1,3 +1,4 @@
+mod folding_method;
 fn main() {
-    println!("Hello, world!");
+  folding_method::folding_method();
 }
